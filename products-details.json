@@ -1,0 +1,126 @@
+{
+    "customListings": 0.0,
+    "shippingCategoryId": 1.0,
+    "duplicate": true,
+    "productLineUrlName": "Pokemon",
+    "productTypeName": "Cards",
+    "productUrlName": "Charizard",
+    "productTypeId": 1.0,
+    "rarityName": "Holo Rare",
+    "sealed": false,
+    "marketPrice": 4200.0,
+    "customAttributes": {
+        "description": "<strong>Pokémon Power: Energy Burn</strong> As often as you like during your turn <em>(before your attack)</em>, you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+        "attack2": null,
+        "stage": "Stage 2",
+        "energyType": [
+            "Fire"
+        ],
+        "releaseDate": "1999-01-09T00:00:00Z",
+        "number": "004/102",
+        "cardType": [
+            "Pokemon"
+        ],
+        "retreatCost": "3",
+        "cardTypeB": "Fire",
+        "resistance": "F-30",
+        "rarityDbName": "Holo Rare",
+        "weakness": "W",
+        "flavorText": "<em>Flame Pokémon. Length: 5'7\", Weight: 200 lbs.\r\n<br>Spits fire that is hot enough to melt boulders. Known to unintentionally cause forest fires.  LV. 76  #6</em>",
+        "attack1": "[RRRR] Fire Spin (100)\r\n<br>Discard 2 Energy cards attached to Charizard in order to use this attack.",
+        "hp": "120",
+        "attack3": null,
+        "attack4": null
+    },
+    "lowestPriceWithShipping": 795.0,
+    "productName": "Charizard",
+    "setId": 1663.0,
+    "setCode": "BSS",
+    "productId": 106999.0,
+    "imageCount": 1.0,
+    "score": 1.6232493,
+    "setName": "Base Set (Shadowless)",
+    "sellers": 13.0,
+    "foilOnly": true,
+    "setUrlName": "Base Set Shadowless",
+    "sellerListable": true,
+    "productLineId": 3.0,
+    "productStatusId": 1.0,
+    "productLineName": "Pokemon",
+    "maxFulfillableQuantity": 255.0,
+    "normalOnly": false,
+    "listings": 23.0,
+    "lowestPrice": 795.0,
+    "medianPrice": null,
+    "formattedAttributes": {
+        "Card Number / Rarity": "004/102 / Holo Rare",
+        "Card Type / HP / Stage": "Fire / 120 / Stage 2",
+        "Card Text": "<strong>Pokémon Power: Energy Burn</strong> As often as you like during your turn <em>(before your attack)</em>, you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+        "Attack 1": "[RRRR] Fire Spin (100)\r\n<br>Discard 2 Energy cards attached to Charizard in order to use this attack.",
+        "Weakness / Resistance / Retreat Cost": "W / F-30 / 3",
+        "Artist": "Mitsuhiro Arita",
+        "TCGplayer Tip": "The Holo Rare Charizard card from Base Set has been the holy grail of Pokémon collectibles since 1999, and many fans consider it the most iconic Pokémon card ever printed. First Edition copies of this card are called \"shadowless\" because they don't have a drop shadow behind the art frame."
+    },
+    "skus": [
+        {
+            "sku": 2998642,
+            "condition": "Near Mint",
+            "variant": "1st Edition Holofoil",
+            "language": "English"
+        },
+        {
+            "sku": 2998643,
+            "condition": "Lightly Played",
+            "variant": "1st Edition Holofoil",
+            "language": "English"
+        },
+        {
+            "sku": 2998644,
+            "condition": "Moderately Played",
+            "variant": "1st Edition Holofoil",
+            "language": "English"
+        },
+        {
+            "sku": 2998645,
+            "condition": "Heavily Played",
+            "variant": "1st Edition Holofoil",
+            "language": "English"
+        },
+        {
+            "sku": 2998646,
+            "condition": "Damaged",
+            "variant": "1st Edition Holofoil",
+            "language": "English"
+        },
+        {
+            "sku": 2998637,
+            "condition": "Near Mint",
+            "variant": "Unlimited Holofoil",
+            "language": "English"
+        },
+        {
+            "sku": 2998638,
+            "condition": "Lightly Played",
+            "variant": "Unlimited Holofoil",
+            "language": "English"
+        },
+        {
+            "sku": 2998639,
+            "condition": "Moderately Played",
+            "variant": "Unlimited Holofoil",
+            "language": "English"
+        },
+        {
+            "sku": 2998640,
+            "condition": "Heavily Played",
+            "variant": "Unlimited Holofoil",
+            "language": "English"
+        },
+        {
+            "sku": 2998641,
+            "condition": "Damaged",
+            "variant": "Unlimited Holofoil",
+            "language": "English"
+        }
+    ]
+}

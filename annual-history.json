@@ -1,0 +1,2137 @@
+{
+    "count": 4,
+    "result": [
+        {
+            "skuId": "8996569",
+            "variant": "Holofoil",
+            "language": "English",
+            "condition": "Near Mint",
+            "averageDailyQuantitySold": "23",
+            "averageDailyTransactionCount": "11",
+            "totalQuantitySold": "8557",
+            "totalTransactionCount": "4279",
+            "trendingMarketPricePercentages": {},
+            "buckets": [
+                {
+                    "marketPrice": "0.5",
+                    "quantitySold": "475",
+                    "lowSalePrice": "0.02",
+                    "lowSalePriceWithShipping": "0.11",
+                    "highSalePrice": "4",
+                    "highSalePriceWithShipping": "20.5",
+                    "transactionCount": "252",
+                    "bucketStartDate": "2026-01-26"
+                },
+                {
+                    "marketPrice": "0.39",
+                    "quantitySold": "959",
+                    "lowSalePrice": "0.02",
+                    "lowSalePriceWithShipping": "0.15",
+                    "highSalePrice": "2.49",
+                    "highSalePriceWithShipping": "10.34",
+                    "transactionCount": "405",
+                    "bucketStartDate": "2026-01-19"
+                },
+                {
+                    "marketPrice": "0.37",
+                    "quantitySold": "757",
+                    "lowSalePrice": "0.01",
+                    "lowSalePriceWithShipping": "0.2",
+                    "highSalePrice": "2.49",
+                    "highSalePriceWithShipping": "7.48",
+                    "transactionCount": "394",
+                    "bucketStartDate": "2026-01-12"
+                },
+                {
+                    "marketPrice": "0.33",
+                    "quantitySold": "907",
+                    "lowSalePrice": "0.01",
+                    "lowSalePriceWithShipping": "0.02",
+                    "highSalePrice": "1.99",
+                    "highSalePriceWithShipping": "21.98",
+                    "transactionCount": "370",
+                    "bucketStartDate": "2026-01-05"
+                },
+                {
+                    "marketPrice": "0.29",
+                    "quantitySold": "746",
+                    "lowSalePrice": "0.01",
+                    "lowSalePriceWithShipping": "0.05",
+                    "highSalePrice": "2.99",
+                    "highSalePriceWithShipping": "9.98",
+                    "transactionCount": "363",
+                    "bucketStartDate": "2025-12-29"
+                },
+                {
+                    "marketPrice": "0.4",
+                    "quantitySold": "623",
+                    "lowSalePrice": "0.01",
+                    "lowSalePriceWithShipping": "0.01",
+                    "highSalePrice": "2.2",
+                    "highSalePriceWithShipping": "6.73",
+                    "transactionCount": "315",
+                    "bucketStartDate": "2025-12-22"
+                },
+                {
+                    "marketPrice": "0.35",
+                    "quantitySold": "529",
+                    "lowSalePrice": "0.05",
+                    "lowSalePriceWithShipping": "0.05",
+                    "highSalePrice": "1.74",
+                    "highSalePriceWithShipping": "6.35",
+                    "transactionCount": "248",
+                    "bucketStartDate": "2025-12-15"
+                },
+                {
+                    "marketPrice": "0.35",
+                    "quantitySold": "606",
+                    "lowSalePrice": "0.01",
+                    "lowSalePriceWithShipping": "0.05",
+                    "highSalePrice": "1.77",
+                    "highSalePriceWithShipping": "11.74",
+                    "transactionCount": "274",
+                    "bucketStartDate": "2025-12-08"
+                },
+                {
+                    "marketPrice": "0.36",
+                    "quantitySold": "458",
+                    "lowSalePrice": "0.04",
+                    "lowSalePriceWithShipping": "0.05",
+                    "highSalePrice": "3.25",
+                    "highSalePriceWithShipping": "10.79",
+                    "transactionCount": "307",
+                    "bucketStartDate": "2025-12-01"
+                },
+                {
+                    "marketPrice": "0.38",
+                    "quantitySold": "1082",
+                    "lowSalePrice": "0.02",
+                    "lowSalePriceWithShipping": "0.04",
+                    "highSalePrice": "4",
+                    "highSalePriceWithShipping": "12.99",
+                    "transactionCount": "557",
+                    "bucketStartDate": "2025-11-24"
+                },
+                {
+                    "marketPrice": "0.29",
+                    "quantitySold": "763",
+                    "lowSalePrice": "0.01",
+                    "lowSalePriceWithShipping": "0.03",
+                    "highSalePrice": "2.2",
+                    "highSalePriceWithShipping": "11.19",
+                    "transactionCount": "435",
+                    "bucketStartDate": "2025-11-17"
+                },
+                {
+                    "marketPrice": "0.4",
+                    "quantitySold": "650",
+                    "lowSalePrice": "0.01",
+                    "lowSalePriceWithShipping": "0.2",
+                    "highSalePrice": "2",
+                    "highSalePriceWithShipping": "5.67",
+                    "transactionCount": "357",
+                    "bucketStartDate": "2025-11-10"
+                },
+                {
+                    "marketPrice": "0.98",
+                    "quantitySold": "2",
+                    "lowSalePrice": "0.98",
+                    "lowSalePriceWithShipping": "0.99",
+                    "highSalePrice": "0.99",
+                    "highSalePriceWithShipping": "2.29",
+                    "transactionCount": "2",
+                    "bucketStartDate": "2025-11-03"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-10-27"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-10-20"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-10-13"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-10-06"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-29"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-22"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-15"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-08"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-01"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-08-25"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-08-18"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-08-11"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-08-04"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-07-28"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-07-21"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-07-14"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-07-07"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-30"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-23"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-16"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-09"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-02"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-05-26"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-05-19"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-05-12"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-05-05"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-04-28"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-04-21"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-04-14"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-04-07"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-31"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-24"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-17"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-10"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-03"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-02-24"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-02-17"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-02-10"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-02-03"
+                }
+            ]
+        },
+        {
+            "skuId": "8996570",
+            "variant": "Holofoil",
+            "language": "English",
+            "condition": "Lightly Played",
+            "averageDailyQuantitySold": "1",
+            "averageDailyTransactionCount": "0",
+            "totalQuantitySold": "474",
+            "totalTransactionCount": "242",
+            "trendingMarketPricePercentages": {},
+            "buckets": [
+                {
+                    "marketPrice": "0.39",
+                    "quantitySold": "26",
+                    "lowSalePrice": "0.1",
+                    "lowSalePriceWithShipping": "0.33",
+                    "highSalePrice": "0.61",
+                    "highSalePriceWithShipping": "1.85",
+                    "transactionCount": "13",
+                    "bucketStartDate": "2026-01-26"
+                },
+                {
+                    "marketPrice": "0.44",
+                    "quantitySold": "56",
+                    "lowSalePrice": "0.16",
+                    "lowSalePriceWithShipping": "0.32",
+                    "highSalePrice": "0.75",
+                    "highSalePriceWithShipping": "6.46",
+                    "transactionCount": "30",
+                    "bucketStartDate": "2026-01-19"
+                },
+                {
+                    "marketPrice": "0.48",
+                    "quantitySold": "41",
+                    "lowSalePrice": "0.15",
+                    "lowSalePriceWithShipping": "0.45",
+                    "highSalePrice": "1.25",
+                    "highSalePriceWithShipping": "5.75",
+                    "transactionCount": "18",
+                    "bucketStartDate": "2026-01-12"
+                },
+                {
+                    "marketPrice": "0.46",
+                    "quantitySold": "79",
+                    "lowSalePrice": "0.09",
+                    "lowSalePriceWithShipping": "0.25",
+                    "highSalePrice": "2.02",
+                    "highSalePriceWithShipping": "3.79",
+                    "transactionCount": "26",
+                    "bucketStartDate": "2026-01-05"
+                },
+                {
+                    "marketPrice": "0.4",
+                    "quantitySold": "53",
+                    "lowSalePrice": "0.01",
+                    "lowSalePriceWithShipping": "0.1",
+                    "highSalePrice": "1.53",
+                    "highSalePriceWithShipping": "10.24",
+                    "transactionCount": "35",
+                    "bucketStartDate": "2025-12-29"
+                },
+                {
+                    "marketPrice": "0.35",
+                    "quantitySold": "22",
+                    "lowSalePrice": "0.1",
+                    "lowSalePriceWithShipping": "0.1",
+                    "highSalePrice": "1.52",
+                    "highSalePriceWithShipping": "1.63",
+                    "transactionCount": "18",
+                    "bucketStartDate": "2025-12-22"
+                },
+                {
+                    "marketPrice": "0.21",
+                    "quantitySold": "45",
+                    "lowSalePrice": "0.01",
+                    "lowSalePriceWithShipping": "0.1",
+                    "highSalePrice": "0.35",
+                    "highSalePriceWithShipping": "3.19",
+                    "transactionCount": "17",
+                    "bucketStartDate": "2025-12-15"
+                },
+                {
+                    "marketPrice": "0.29",
+                    "quantitySold": "47",
+                    "lowSalePrice": "0.06",
+                    "lowSalePriceWithShipping": "0.2",
+                    "highSalePrice": "0.5",
+                    "highSalePriceWithShipping": "5.36",
+                    "transactionCount": "19",
+                    "bucketStartDate": "2025-12-08"
+                },
+                {
+                    "marketPrice": "0.38",
+                    "quantitySold": "36",
+                    "lowSalePrice": "0.1",
+                    "lowSalePriceWithShipping": "0.1",
+                    "highSalePrice": "0.99",
+                    "highSalePriceWithShipping": "5.45",
+                    "transactionCount": "25",
+                    "bucketStartDate": "2025-12-01"
+                },
+                {
+                    "marketPrice": "0.4",
+                    "quantitySold": "25",
+                    "lowSalePrice": "0.2",
+                    "lowSalePriceWithShipping": "0.25",
+                    "highSalePrice": "1",
+                    "highSalePriceWithShipping": "3.46",
+                    "transactionCount": "20",
+                    "bucketStartDate": "2025-11-24"
+                },
+                {
+                    "marketPrice": "0.37",
+                    "quantitySold": "33",
+                    "lowSalePrice": "0.15",
+                    "lowSalePriceWithShipping": "0.25",
+                    "highSalePrice": "0.8",
+                    "highSalePriceWithShipping": "3.83",
+                    "transactionCount": "13",
+                    "bucketStartDate": "2025-11-17"
+                },
+                {
+                    "marketPrice": "0.35",
+                    "quantitySold": "11",
+                    "lowSalePrice": "0.1",
+                    "lowSalePriceWithShipping": "0.44",
+                    "highSalePrice": "0.46",
+                    "highSalePriceWithShipping": "3.45",
+                    "transactionCount": "8",
+                    "bucketStartDate": "2025-11-10"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-11-03"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-10-27"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-10-20"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-10-13"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-10-06"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-29"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-22"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-15"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-08"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-01"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-08-25"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-08-18"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-08-11"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-08-04"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-07-28"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-07-21"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-07-14"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-07-07"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-30"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-23"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-16"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-09"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-02"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-05-26"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-05-19"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-05-12"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-05-05"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-04-28"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-04-21"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-04-14"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-04-07"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-31"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-24"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-17"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-10"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-03"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-02-24"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-02-17"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-02-10"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-02-03"
+                }
+            ]
+        },
+        {
+            "skuId": "8996571",
+            "variant": "Holofoil",
+            "language": "English",
+            "condition": "Moderately Played",
+            "averageDailyQuantitySold": "0",
+            "averageDailyTransactionCount": "0",
+            "totalQuantitySold": "12",
+            "totalTransactionCount": "11",
+            "trendingMarketPricePercentages": {},
+            "buckets": [
+                {
+                    "marketPrice": "0.46",
+                    "quantitySold": "1",
+                    "lowSalePrice": "0.75",
+                    "lowSalePriceWithShipping": "0.75",
+                    "highSalePrice": "0.75",
+                    "highSalePriceWithShipping": "0.75",
+                    "transactionCount": "1",
+                    "bucketStartDate": "2026-01-26"
+                },
+                {
+                    "marketPrice": "0.44",
+                    "quantitySold": "3",
+                    "lowSalePrice": "0.35",
+                    "lowSalePriceWithShipping": "0.35",
+                    "highSalePrice": "0.48",
+                    "highSalePriceWithShipping": "1.79",
+                    "transactionCount": "2",
+                    "bucketStartDate": "2026-01-19"
+                },
+                {
+                    "marketPrice": "0.44",
+                    "quantitySold": "1",
+                    "lowSalePrice": "0.75",
+                    "lowSalePriceWithShipping": "0.75",
+                    "highSalePrice": "0.75",
+                    "highSalePriceWithShipping": "0.75",
+                    "transactionCount": "1",
+                    "bucketStartDate": "2026-01-12"
+                },
+                {
+                    "marketPrice": "0.4",
+                    "quantitySold": "1",
+                    "lowSalePrice": "0.25",
+                    "lowSalePriceWithShipping": "1.56",
+                    "highSalePrice": "0.25",
+                    "highSalePriceWithShipping": "1.56",
+                    "transactionCount": "1",
+                    "bucketStartDate": "2026-01-05"
+                },
+                {
+                    "marketPrice": "0.42",
+                    "quantitySold": "1",
+                    "lowSalePrice": "0.99",
+                    "lowSalePriceWithShipping": "2.3",
+                    "highSalePrice": "0.99",
+                    "highSalePriceWithShipping": "2.3",
+                    "transactionCount": "1",
+                    "bucketStartDate": "2025-12-29"
+                },
+                {
+                    "marketPrice": "0.31",
+                    "quantitySold": "1",
+                    "lowSalePrice": "0.39",
+                    "lowSalePriceWithShipping": "0.39",
+                    "highSalePrice": "0.39",
+                    "highSalePriceWithShipping": "0.39",
+                    "transactionCount": "1",
+                    "bucketStartDate": "2025-12-22"
+                },
+                {
+                    "marketPrice": "0.29",
+                    "quantitySold": "1",
+                    "lowSalePrice": "0.75",
+                    "lowSalePriceWithShipping": "0.75",
+                    "highSalePrice": "0.75",
+                    "highSalePriceWithShipping": "0.75",
+                    "transactionCount": "1",
+                    "bucketStartDate": "2025-12-15"
+                },
+                {
+                    "marketPrice": "0.13",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-12-08"
+                },
+                {
+                    "marketPrice": "0.13",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-12-01"
+                },
+                {
+                    "marketPrice": "0.13",
+                    "quantitySold": "1",
+                    "lowSalePrice": "0.2",
+                    "lowSalePriceWithShipping": "4.7",
+                    "highSalePrice": "0.2",
+                    "highSalePriceWithShipping": "4.7",
+                    "transactionCount": "1",
+                    "bucketStartDate": "2025-11-24"
+                },
+                {
+                    "marketPrice": "0.1",
+                    "quantitySold": "2",
+                    "lowSalePrice": "0.1",
+                    "lowSalePriceWithShipping": "1.37",
+                    "highSalePrice": "0.1",
+                    "highSalePriceWithShipping": "1.41",
+                    "transactionCount": "2",
+                    "bucketStartDate": "2025-11-17"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-11-10"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-11-03"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-10-27"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-10-20"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-10-13"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-10-06"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-29"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-22"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-15"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-08"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-01"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-08-25"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-08-18"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-08-11"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-08-04"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-07-28"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-07-21"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-07-14"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-07-07"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-30"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-23"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-16"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-09"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-02"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-05-26"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-05-19"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-05-12"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-05-05"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-04-28"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-04-21"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-04-14"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-04-07"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-31"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-24"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-17"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-10"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-03"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-02-24"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-02-17"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-02-10"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-02-03"
+                }
+            ]
+        },
+        {
+            "skuId": "8996573",
+            "variant": "Holofoil",
+            "language": "English",
+            "condition": "Damaged",
+            "averageDailyQuantitySold": "0",
+            "averageDailyTransactionCount": "0",
+            "totalQuantitySold": "1",
+            "totalTransactionCount": "1",
+            "trendingMarketPricePercentages": {},
+            "buckets": [
+                {
+                    "marketPrice": "0.5",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2026-01-26"
+                },
+                {
+                    "marketPrice": "0.35",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2026-01-19"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2026-01-12"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2026-01-05"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-12-29"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "1",
+                    "lowSalePrice": "0.5",
+                    "lowSalePriceWithShipping": "0.5",
+                    "highSalePrice": "0.5",
+                    "highSalePriceWithShipping": "0.5",
+                    "transactionCount": "1",
+                    "bucketStartDate": "2025-12-22"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-12-15"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-12-08"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-12-01"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-11-24"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-11-17"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-11-10"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-11-03"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-10-27"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-10-20"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-10-13"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-10-06"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-29"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-22"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-15"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-08"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-09-01"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-08-25"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-08-18"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-08-11"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-08-04"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-07-28"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-07-21"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-07-14"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-07-07"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-30"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-23"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-16"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-09"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-06-02"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-05-26"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-05-19"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-05-12"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-05-05"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-04-28"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-04-21"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-04-14"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-04-07"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-31"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-24"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-17"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-10"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-03-03"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-02-24"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-02-17"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-02-10"
+                },
+                {
+                    "marketPrice": "0",
+                    "quantitySold": "0",
+                    "lowSalePrice": "0",
+                    "lowSalePriceWithShipping": "0",
+                    "highSalePrice": "0",
+                    "highSalePriceWithShipping": "0",
+                    "transactionCount": "0",
+                    "bucketStartDate": "2025-02-03"
+                }
+            ]
+        }
+    ]
+}
